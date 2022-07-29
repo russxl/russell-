@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  font-family: "Sacramento", cursive;
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+h2 {
+  font-family: "Open Sans", sans-serif;
+}
+h3 {
+  font-family: "Open Sans", sans-serif;
+}
+.top-container {
+  padding-top: 100px;
+  background-color: rgb(201, 241, 228);
+  margin: 0;
+}
+.hi {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+.bot-cloud {
+  position: absolute;
+  left: 500px;
+}
+.mid-container{
+
+
+}
+.russell{
+  border-radius: 360px;
+  height: 250px;
+  margin-top: 60px;
+}
+.p1{
+  color: rgb(117, 122, 126);
+  width: 35%;
+  margin: auto;
+ display: block;
+}
+hr{
+  border: dotted rgb(176, 185, 192) 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.skills{
+  display: block;
+}
+.row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  
+}
+h4{
+  font-family: "Open Sans", sans-serif;
+}
+.stonks{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+
+}
+.contact{
+  width: 50%;
+  margin: 100px auto 50px auto;
+}
+
+button{
+  border-radius: 5px;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  text-decoration: none;
+  border: none;
+  width: 100px;
+  height: 30px;
+
+  font-size: 15px;
+  margin: 50px;
+  text-decoration: none;
+  background-color: aquamarine;
+}
+a{
+  text-decoration: none;
+  color: #ffff;
+  
+}
+.bot-container{
+  height: 150px;
+  background-color: aquamarine;
+  margin-top: 30px;
+}
